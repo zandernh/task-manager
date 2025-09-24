@@ -27,7 +27,7 @@ This project was not deployed as it is a small-scale experiment. The focus of th
 ## 🛠️ Tech Stack
 
 - **Django** - Backend framework
-- **Django REST Framework (DRF) - API and serialization
+- **Django REST Framework (DRF)** - API and serialization
 - **SQLite** - Lightweight local database
 - **React** - Frontend library
 - **Axios** - HTTP requests to Django API
